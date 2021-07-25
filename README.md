@@ -1,5 +1,6 @@
 # kiosk_redesign
 
+2020-1 Design Thinking Team Project
 
 [![name](https://img.shields.io/static/v1?&label=Hompage&message=Link&color=pink)](http://htmlpreview.github.io/?https://github.com/2017100898/kiosk_redesign/blob/main/kiosk/index.html)  🌈✨🚀💫
 
