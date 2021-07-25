@@ -1,5 +1,7 @@
 # kiosk_redesign
 
+<img src = "https://img.shields.io/static/v1?url=http://htmlpreview.github.io/?https://github.com/2017100898/kiosk_redesign/blob/main/kiosk/index.html&label=Hompage&message=Link&color=pink">
+
 ![슬라이드1](https://user-images.githubusercontent.com/64299475/126894395-d67de1c5-2f81-4f63-8268-dd36aee5e8f6.png)
 ![슬라이드2](https://user-images.githubusercontent.com/64299475/126894397-72b8a403-bd1f-4412-b429-2d5437ea1b8d.png)
 ![슬라이드3](https://user-images.githubusercontent.com/64299475/126894398-0c643d36-c99d-46f7-97ba-e41687ee4b09.png)
