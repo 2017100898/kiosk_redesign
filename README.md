@@ -2,7 +2,7 @@
 
 2020-1 Design Thinking Team Project
 
-[![name](https://img.shields.io/static/v1?&label=Hompage&message=Link&color=pink)](http://htmlpreview.github.io/?https://github.com/2017100898/kiosk_redesign/blob/main/kiosk/index.html)  🌈✨🚀💫
+[![name](https://img.shields.io/static/v1?&label=Hompage&message=Link&color=pink)](http://htmlpreview.github.io/?https://github.com/2017100898/kiosk_redesign/blob/main/kiosk/index.html)  👈👈👈👈 🌈✨🚀💫
 
 ![슬라이드1](https://user-images.githubusercontent.com/64299475/126894395-d67de1c5-2f81-4f63-8268-dd36aee5e8f6.png)
 ![슬라이드2](https://user-images.githubusercontent.com/64299475/126894397-72b8a403-bd1f-4412-b429-2d5437ea1b8d.png)
