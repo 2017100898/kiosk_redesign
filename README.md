@@ -1,4 +1,4 @@
-# kiosk_redesign
+# 어르신을 위한 병원 키오스크 리디자인 및 연습 사이트 구축
 
 2020-1 Design Thinking Team Project
 
